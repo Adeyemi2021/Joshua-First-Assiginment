@@ -1,0 +1,7 @@
+C:\Users\ADEYEMI JOSHUA\source\repos\Joshua First Assiginment\bin\Debug\Joshua First Assiginment.exe.config
+C:\Users\ADEYEMI JOSHUA\source\repos\Joshua First Assiginment\bin\Debug\Joshua First Assiginment.exe
+C:\Users\ADEYEMI JOSHUA\source\repos\Joshua First Assiginment\bin\Debug\Joshua First Assiginment.pdb
+C:\Users\ADEYEMI JOSHUA\source\repos\Joshua First Assiginment\obj\Debug\Joshua First Assiginment.csprojAssemblyReference.cache
+C:\Users\ADEYEMI JOSHUA\source\repos\Joshua First Assiginment\obj\Debug\Joshua First Assiginment.csproj.CoreCompileInputs.cache
+C:\Users\ADEYEMI JOSHUA\source\repos\Joshua First Assiginment\obj\Debug\Joshua First Assiginment.exe
+C:\Users\ADEYEMI JOSHUA\source\repos\Joshua First Assiginment\obj\Debug\Joshua First Assiginment.pdb
